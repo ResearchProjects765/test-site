@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+*.key
+*.pem
+.claude/
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.pdf
